@@ -5,7 +5,7 @@
 https://www.kaggle.com/fahd09/arabic-poetry-dataset-478-2017
 
 ***
-منهج استخراج الرقم الأمثل لعدد الموضوعات
+منهج استخراج النموذج الأمثل لعدد الموضوعات
 
 https://www.machinelearningplus.com/nlp/topic-modeling-gensim-python/#14computemodelperplexityandcoherencescore
 ***
